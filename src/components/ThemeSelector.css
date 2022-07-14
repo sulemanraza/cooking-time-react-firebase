@@ -1,0 +1,21 @@
+.ThemeSelector {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.ThemeSelector .modeToggle img {
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+}
+.ThemeSelector .ThemeButtons div {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  cursor: pointer;
+  margin-left: 15px;
+  border-radius: 50%;
+}

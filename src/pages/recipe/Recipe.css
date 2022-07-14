@@ -1,0 +1,23 @@
+.recipe {
+  max-width: 1200px;
+  margin: 40px auto;
+  background-color: white;
+  box-sizing: border-box;
+  padding: 15px;
+}
+.recipe .cookingTime {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  color: #777;
+}
+.recipe h4 {
+  margin-bottom: -5px;
+}
+.recipe ul {
+  text-align-last: left;
+}
+
+.method {
+  text-align: left;
+  line-height: 1.5em;
+}

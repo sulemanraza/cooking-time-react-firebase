@@ -1,0 +1,7 @@
+.SearchBar form {
+  display: flex;
+  align-items: center;
+}
+.SearchBar input {
+  margin-left: 10px;
+}
